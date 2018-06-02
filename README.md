@@ -5,7 +5,7 @@ Tracks Ether and Token transfers for given wallets and amount.
 - [Node 8+](https://nodejs.org/en/)
 - [Yarn (optional)](https://yarnpkg.com/en/)
 
-### Setup
+## Setup
 
 ```
 git clone git@github.com:dsemenovsky/blockchain-tracker-example.git
